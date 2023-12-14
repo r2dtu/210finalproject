@@ -1,6 +1,7 @@
 # Recommender Systems in Data Mining
 ### Course: DSC 210: Numerical Linear Algebra
 Instructor: Dr. Tsui-wei Weng
+
 Group: Xujun Lian, David Tu, Albert Zhong
 
 ## Instructions
