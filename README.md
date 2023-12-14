@@ -5,7 +5,7 @@ Group: Xujun Lian, David Tu, Albert Zhong
 
 ## Instructions
 Ensure that the following libraries are installed in python 3 environment:
-- surprise
+- surprise (the notebook will do this for you, if not)
 - pandas
 - numpy
 - fastai
